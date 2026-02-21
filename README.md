@@ -37,9 +37,14 @@ I'm a developer dedicated to creating impactful projects and collaborating with 
 
 ## 📈 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubrathshetty&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubrathshetty&show_icons=true&theme=radical&rank_icon=github&hide_border=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubrathshetty&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubrathshetty&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubrathshetty&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ## 🤝 Let's Connect
 
