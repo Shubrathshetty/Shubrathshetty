@@ -44,10 +44,10 @@ I'm a developer dedicated to creating impactful projects and collaborating with 
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/shubrath-shetty-014019330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)&nbsp;&nbsp;
-[![X](https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg)](https://x.com/ShettySubr52955)&nbsp;&nbsp;
-[![Gmail](https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg)](mailto:subrathshetty2k06@gmail.com)&nbsp;&nbsp;
-[![Portfolio](https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg)](https://portfolio-website-ten-azure-24.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubrath-shetty-014019330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ShettySubr52955)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subrathshetty2k06@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-ten-azure-24.vercel.app/)
 
 ---
 
