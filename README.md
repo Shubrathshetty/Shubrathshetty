@@ -42,34 +42,12 @@ I'm a developer dedicated to creating impactful projects and collaborating with 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
 </p>
 
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubrathshetty&show_icons=true&theme=radical&rank_icon=github&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubrathshetty&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubrathshetty&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-
 ## 🤝 Let's Connect
 
-<p>
-  <a href="https://www.linkedin.com/in/shubrath-shetty-014019330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
-  </a>
-  <a href="https://x.com/ShettySubr52955">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="X" width="50" height="50"/>
-  </a>
-  <a href="mailto:subrathshetty2k06@gmail.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Gmail" width="50" height="50"/>
-  </a>
-  <a href="https://portfolio-website-ten-azure-24.vercel.app/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Portfolio" width="50" height="50"/>
-  </a>
-</p>
+[![LinkedIn](https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/shubrath-shetty-014019330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)&nbsp;&nbsp;
+[![X](https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg)](https://x.com/ShettySubr52955)&nbsp;&nbsp;
+[![Gmail](https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg)](mailto:subrathshetty2k06@gmail.com)&nbsp;&nbsp;
+[![Portfolio](https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg)](https://portfolio-website-ten-azure-24.vercel.app/)
 
 ---
 
