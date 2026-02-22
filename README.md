@@ -3,12 +3,7 @@
 <div align="center">
   <img src="https://image2url.com/r2/default/gifs/1771749752756-5759e3c7-7acc-4943-9bf0-a80df74fbe2c.gif" alt="Banner" width="600" />
 </div>
-
 <br>
-<br>
-
-
-
 I'm a developer dedicated to creating impactful projects and collaborating with fellow developers. With a focus on clean code and continuous learning, I strive to contribute meaningfully to every project I work on.
 
 ## 💻 Skills & Technologies
