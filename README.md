@@ -1,4 +1,4 @@
-## ✨ About Me
+## 🧑‍💻 About Me
 
 <div align="center">
   <img src="https://image2url.com/r2/default/gifs/1771749752756-5759e3c7-7acc-4943-9bf0-a80df74fbe2c.gif" alt="Banner" width="600" />
