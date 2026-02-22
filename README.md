@@ -1,8 +1,8 @@
+## ✨ About Me
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/63981fa6-e6ed-4f20-bee2-5277826aa14a" alt="Banner" />
 </div>
-
-## ✨ About Me
 
 I'm a developer dedicated to creating impactful projects and collaborating with fellow developers. With a focus on clean code and continuous learning, I strive to contribute meaningfully to every project I work on.
 
