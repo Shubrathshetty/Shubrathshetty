@@ -56,22 +56,16 @@ I'm a developer dedicated to creating impactful projects and collaborating with 
 
 <div align="center">
 
-  <a href="https://github.com/Shubrathshetty">
-    <img src="https://github-readme-stats.vercel.app/api?username=Shubrathshetty&show_icons=true&theme=radical&bg_color=0d1117&title_color=00d4ff&icon_color=ff2d95&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubrathshetty&show_icons=true&theme=radical&bg_color=0d1117&title_color=00d4ff&icon_color=ff2d95&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
   &nbsp;
-  <a href="https://github.com/Shubrathshetty">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubrathshetty&theme=radical&background=0d1117&ring=00d4ff&fire=ff2d95&currStreakLabel=00d4ff&sideLabels=00d4ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555&border=30363d" alt="GitHub Streak" height="180" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubrathshetty&theme=radical&background=0d1117&ring=00d4ff&fire=ff2d95&currStreakLabel=00d4ff&sideLabels=00d4ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555&border=30363d" alt="GitHub Streak" height="180" />
 
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/Shubrathshetty">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubrathshetty&bg_color=0d1117&color=00d4ff&line=ff2d95&point=ffffff&area_color=00d4ff&area=true&hide_border=false&custom_title=Contribution%20Graph" alt="Contribution Graph" width="95%" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubrathshetty&bg_color=0d1117&color=00d4ff&line=ff2d95&point=ffffff&area_color=00d4ff&area=true&hide_border=false&custom_title=Contribution%20Graph" alt="Contribution Graph" width="95%" />
 </div>
 
 <br>
