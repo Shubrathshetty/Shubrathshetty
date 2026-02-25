@@ -69,14 +69,6 @@ I'm a developer dedicated to creating impactful projects and collaborating with 
   <img src="https://streak-stats.demolab.com/?user=Shubrathshetty&theme=radical&background=0d1117&ring=00d4ff&fire=ff2d95&currStreakLabel=00d4ff&sideLabels=00d4ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555&border=30363d" alt="GitHub Streak" height="180" />
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubrathshetty&bg_color=0d1117&color=00d4ff&line=ff2d95&point=ffffff&area_color=00d4ff&area=true&hide_border=false&custom_title=Contribution%20Graph" alt="Contribution Graph" width="95%" />
-</div>
-
-<br>
-
 ## 🤝 Let's Connect
 
 [![LinkedIn](./badges/linkedin.svg)](https://www.linkedin.com/in/shubrath-shetty-014019330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
