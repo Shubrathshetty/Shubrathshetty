@@ -62,12 +62,6 @@ I'm a developer dedicated to creating impactful projects and collaborating with 
 </p>
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubrathshetty&show_icons=true&include_all_commits=true&theme=radical&background=0d1117&border_color=30363d&title_color=00d4ff&text_color=c9d1d9&v=20260319_v2" alt="GitHub Stats" height="180" />
-  <img src="https://streak-stats.demolab.com/?user=Shubrathshetty&theme=radical&background=0d1117&ring=00d4ff&fire=ff2d95&currStreakLabel=00d4ff&sideLabels=00d4ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555&border=30363d&v=20260319_v2" alt="GitHub Streak" height="180" />
-</div>
 
 ## 🤝 Let's Connect
 
