@@ -66,7 +66,7 @@ I'm a developer dedicated to creating impactful projects and collaborating with 
 
 <div align="center">
   
-  <img src="https://streak-stats.demolab.com/?user=Shubrathshetty&theme=radical&background=0d1117&ring=00d4ff&fire=ff2d95&currStreakLabel=00d4ff&sideLabels=00d4ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555&border=30363d" alt="GitHub Streak" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=Shubrathshetty&theme=radical&background=0d1117&ring=00d4ff&fire=ff2d95&currStreakLabel=00d4ff&sideLabels=00d4ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555&border=30363d&v=1" alt="GitHub Streak" height="180" />
 </div>
 
 ## 🤝 Let's Connect
