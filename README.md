@@ -4,7 +4,7 @@
   <img src="https://image2url.com/r2/default/gifs/1771749752756-5759e3c7-7acc-4943-9bf0-a80df74fbe2c.gif" alt="Banner" width="600" />
 </div>
 <br>
-I'm a developer dedicated to creating impactful projects and collaborating with fellow developers. With a focus on clean code and continuous learning, I strive to contribute meaningfully to every project I work on.
+I write code that solves problems, breaks things, and occasionally does exactly what I intended. Always curious, always shipping.
 
 ## 💻 Skills & Technologies
 
@@ -34,6 +34,9 @@ I'm a developer dedicated to creating impactful projects and collaborating with 
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="50" height="50"/>
   </picture>
+  <picture>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/>
+   </picture>
   <img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/>
 </p>
