@@ -38,7 +38,8 @@ I write code that solves problems, breaks things, and occasionally does exactly 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/>
    </picture>
   <img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com" alt="Zod Logo" width="50" height="50" />
+
 </p>
 
 ### Databases
