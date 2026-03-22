@@ -47,6 +47,7 @@ I write code that solves problems, breaks things, and occasionally does exactly 
 
   <img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="50" height="50"/>
 </p>
+
 ### Databases
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
