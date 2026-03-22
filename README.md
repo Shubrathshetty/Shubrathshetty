@@ -75,7 +75,7 @@ I write code that solves problems, breaks things, and occasionally does exactly 
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](./badges/linkedin.svg)](https://www.linkedin.com/in/shubrath-shetty-014019330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](./badges/linkedin.svg)](https://www.linkedin.com/in/shubrath-shetty?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![X](./badges/x.svg)](https://x.com/ShettySubr52955)
 [![Gmail](./badges/gmail.svg)](https://mail.google.com/mail/?view=cm&to=subrathshetty2k06@gmail.com)
 [![Portfolio](./badges/portfolio.svg)](https://portfolio-website-ten-azure-24.vercel.app/)
