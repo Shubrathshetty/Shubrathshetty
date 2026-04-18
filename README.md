@@ -8,12 +8,7 @@ I write code that solves problems, breaks things, and occasionally does exactly 
 
 ## 💻 Skills & Technologies
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,py,ts,js,html,css,php,angular,fastapi,react,nextjs,vue,laravel,express,mysql,postgres,mongodb,firebase,supabase,github,docker,figma,vite,vscode,git,nodejs" alt="My Skills" /> 
-  <img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="48" height="48" style="vertical-align: top;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="48" height="48" style="vertical-align: top;" />
-  <img src="https://raw.githubusercontent.com/colinhacks/zod/main/logo.svg" alt="Zod" width="48" height="48" style="vertical-align: top;" />
-</p>
+<p align="left"><img src="https://skillicons.dev/icons?i=java,py,ts,js,html,css,php,angular,fastapi,react,nextjs,vue,laravel,express,mysql,postgres,mongodb,firebase,supabase,github,docker,figma,vite,vscode,git,nodejs&perline=30" alt="My Skills" /><img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="48" height="48" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="48" height="48" /><img src="https://raw.githubusercontent.com/colinhacks/zod/main/logo.svg" alt="Zod" width="48" height="48" /></p>
 
 <br>
 
