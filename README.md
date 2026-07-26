@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.gif" alt="Banner" width="600" />
+  <img src="https://raw.githubusercontent.com/Shubrathshetty/Shubrathshetty/main/banner.gif" alt="Banner" width="600" />
 </div>
 <br>
 I’m currently building skills in AI engineering, focusing on RAG Systems, production systems, and DevOps.
@@ -12,16 +12,16 @@ I’m currently building skills in AI engineering, focusing on RAG Systems, prod
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="35" />
   </a>
   <a href="https://www.linkedin.com/in/shubrath-shetty/" target="blank">
-    <img src="./badges/linkedin.svg" alt="LinkedIn" height="35" />
+    <img src="https://raw.githubusercontent.com/Shubrathshetty/Shubrathshetty/main/badges/linkedin.svg" alt="LinkedIn" height="35" />
   </a>
   <a href="https://x.com/ShettySubr52955" target="blank">
-    <img src="./badges/x.svg" alt="X" height="35" />
+    <img src="https://raw.githubusercontent.com/Shubrathshetty/Shubrathshetty/main/badges/x.svg" alt="X" height="35" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&to=subrathshetty2k06@gmail.com" target="blank">
-    <img src="./badges/gmail.svg" alt="Gmail" height="35" />
+    <img src="https://raw.githubusercontent.com/Shubrathshetty/Shubrathshetty/main/badges/gmail.svg" alt="Gmail" height="35" />
   </a>
   <a href="https://portfolio-website-ten-azure-24.vercel.app/" target="blank">
-    <img src="./badges/portfolio.svg" alt="Portfolio" height="35" />
+    <img src="https://raw.githubusercontent.com/Shubrathshetty/Shubrathshetty/main/badges/portfolio.svg" alt="Portfolio" height="35" />
   </a>
 </p>
 
