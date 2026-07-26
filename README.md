@@ -1,11 +1,9 @@
-# Hi 👋, I'm Shubrath Shetty
-
 <div align="center">
   <img src="./banner.gif" alt="Banner" width="600" />
 </div>
 <br>
 
-### I’m currently building skills in AI engineering, focusing on Fine-Tuned LLMs, production systems, and DevOps.
+I’m currently building skills in AI engineering, focusing on Fine-Tuned LLMs, production systems, and DevOps.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shubrathshetty&label=Profile views&color=0e75b6&style=flat" alt="Shubrathshetty" /> </p>
 
