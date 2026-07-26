@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.gif" alt="Banner" width="600" />
+  <img src="https://raw.githubusercontent.com/Shubrathshetty/Shubrathshetty/main/banner.gif" alt="Banner" width="600" />
 </div>
 <br>
 I’m currently building skills in AI engineering, focusing on RAG Systems, production systems, and DevOps.
